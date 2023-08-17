@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f",
+      "177bc5f7-fe92-871d-20a4-0d68f78d1020"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "data-analysis-for-social-scientists"
+  },
+  "course_title": "Data Analysis for Social Scientists",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.310x",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "data-analysis-for-social-scientists"
+  },
+  "learning_resource_types": [],
+  "site_uid": "52fee8d6-6661-43c3-be67-447e86289c42",
+  "site_short_id": "14.310x-spring-2023"
+}
