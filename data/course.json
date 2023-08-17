@@ -33,7 +33,7 @@
   },
   "course_title": "Data Analysis for Social Scientists",
   "hide_download": false,
-  "course_description": "",
+  "course_description": "This course introduces methods for harnessing data to answer questions of  \ncultural, social, economic, and policy interest. We will start with essential  \nnotions of probability and statistics. We will proceed to cover techniques in  \nmodern data analysis: regression and econometrics, design of experiments,  \nrandomized control trials (and A/B testing), machine learning, data visualization.\n\nWe will illustrate these concepts with applications drawn from real  \nworld examples and frontier research. Finally, we will provide instruction on  \nthe use of the statistical package R, and opportunities for students to perform self-directed empirical analyses.",
   "department_numbers": [
     "14"
   ],
