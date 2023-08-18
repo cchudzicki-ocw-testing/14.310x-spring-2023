@@ -7,7 +7,7 @@ file_size: 39105
 file_type: image/png
 image_metadata:
   caption: A visualization of a Facebook network of 1000+ friends in Somalia. (Image
-    by Kimo Quiantance. Used with permission.)
+    by Kimo Quaintance. Used with permission.)
   credit: Image by Kimo Quiantance. Used with permission.
   image-alt: 'A data visualization that uses green, purple, teal, blue, and pink to
     represent clusters of Facebook users. '
