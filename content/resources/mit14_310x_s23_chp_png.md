@@ -6,11 +6,11 @@ file: /courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310
 file_size: 85416
 file_type: image/png
 image_metadata:
-  caption: A visualization of a Facebook network of 1000+ friends in Somalia. (Image
-    by Kimo Quiantance. Used with permission.)
+  caption: "A visualization of a Facebook network of 1000+ friends in Somalia. (Image\
+    \ by Kimo Quiantance. Used with permission.) \_A data visualization that uses\
+    \ green, purple, teal, blue, and pink to represent clusters of Facebook users."
   credit: Image by Kimo Quiantance. Used with permission.
-  image-alt: 'A data visualization that uses green, purple, teal, blue, and pink to
-    represent clusters of Facebook users. '
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
