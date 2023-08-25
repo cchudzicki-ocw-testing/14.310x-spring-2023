@@ -7,3 +7,8 @@ draft: false
 title: Week 7
 uid: d90e95c5-ea08-4e60-9971-2c40b605bd37
 ---
+{{% resource_link "c478de59-c517-4aa7-8b76-7e3791c8178f" "Lecture 14: Causality" %}}
+
+{{% resource_link "538d260d-854f-4b65-aa3c-60350b3adb5a" "Lecture 15: Analyzing Randomized Experiments" %}}
+
+{{% resource_link "33ea90eb-42aa-4e00-9cba-efbd12a07112" "Lecture 16: (More) Explanatory Data Analysis: Nonparametric Comparisons and Regressions" %}}
