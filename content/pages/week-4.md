@@ -6,3 +6,8 @@ draft: false
 title: Week 4
 uid: 15aa8ef1-02ea-4497-9a37-1c6d790e3ea3
 ---
+{{% resource_link "8f1678c7-609d-4ba8-b487-07866d2f6a0d" "Lecture 7: Functions of Random Variables" %}}
+
+{{% resource_link "b74b2310-23a8-4d42-8817-02feb46f81d0" "Lecture 8: Moments of Distribution" %}}
+
+{{% resource_link "aebf3f15-d981-4bb9-aa9c-4f775bb57ce6" "Lecture 9: Expectation, Variance, and Introduction to Regression" %}}
