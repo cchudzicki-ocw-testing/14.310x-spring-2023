@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/data-analysis-for-social-scientists/1w0TizP0oi1NdjUsw_n3-FwPe6EaNwMv4/copy-of-14771-f21-lecture-24-v2.mp4
+file: /courses/14-310x-data-analysis-for-social-scientists-spring-2023/copy-of-14771-f21-lecture-24-v2_360p_16_9.mp4
 file_size: 5781128433
 file_type: video/mp4
 image_metadata:
@@ -17,11 +17,11 @@ uid: 2b4ba32f-ae75-4a10-a633-1a43f25570e0
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/xm5Mrp43HUI/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: xm5Mrp43HUI
 ---
