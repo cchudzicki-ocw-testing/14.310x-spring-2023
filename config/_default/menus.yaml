@@ -39,3 +39,7 @@ leftnav:
   name: Week 10
   pageRef: /pages/week-10
   weight: 100
+- identifier: fbb3296f-7c11-431e-a51a-9dc9744c53e1
+  name: Comprehensive Review
+  pageRef: /pages/comprehensive-review
+  weight: 110
