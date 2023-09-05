@@ -18,4 +18,4 @@ uid: c9de3a8f-2598-4d39-bb10-2fd99fbf5a07
 
 ## Homework
 
-{{% resource_link "53415af0-e75a-41bf-9490-68b56b8b5d50" "Homework 2 (PDF)" %}}| Homework 2 Data and Code
+{{% resource_link "53415af0-e75a-41bf-9490-68b56b8b5d50" "Homework 2 (PDF)" %}}| {{% resource_link "4fecce6c-85ea-4b02-8708-0d799ad8fd2e" "Homework 2 Data and Code" %}}
