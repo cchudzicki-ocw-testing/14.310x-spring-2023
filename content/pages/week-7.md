@@ -19,4 +19,4 @@ uid: d90e95c5-ea08-4e60-9971-2c40b605bd37
 
 ## Homework
 
-{{% resource_link "e6858f88-f383-4856-a0bf-18ad2e656d28" "Homework 7 (PDF)" %}}
+{{% resource_link "e6858f88-f383-4856-a0bf-18ad2e656d28" "Homework 7 (PDF)" %}}| {{% resource_link "3ac0606a-0409-4a7b-b6bd-5f0e8d446294" "Week 7 Data and Code" %}}
