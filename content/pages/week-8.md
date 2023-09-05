@@ -6,6 +6,14 @@ draft: false
 title: Week 8
 uid: 596ccfea-26d2-4826-915a-2486a90e1d9c
 ---
-{{% resource_link "2dc85d79-017d-4f8b-96da-4ab67b2a69eb" "Lecture 17: The Linear Model" %}}
+## Lecture Slides
 
-{{% resource_link "dbde5f95-d4f0-4d4a-9cfd-77224153b5e4" "Lecture 18: The Multivariate Linear Model" %}}
+{{% resource_link "2dc85d79-017d-4f8b-96da-4ab67b2a69eb" "Lecture 17: The Linear Model (PDF)" %}}
+
+{{% resource_link "dbde5f95-d4f0-4d4a-9cfd-77224153b5e4" "Lecture 18: The Multivariate Linear Model (PDF)" %}}
+
+## Lecture Videos
+
+## Homework
+
+{{% resource_link "bfda7542-d485-47b1-b07f-71da51218743" "Homework 8 (PDF)" %}}
