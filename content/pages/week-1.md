@@ -8,7 +8,7 @@ uid: a2ec6aa6-dfae-46cc-885d-7c778ee9a8fe
 ---
 ## Lecture Slides
 
-{{% resource_link "8ffad60c-2ce1-4cbc-b451-2387c7a14366" "Lecture 1: Introduction" %}}
+{{% resource_link "8ffad60c-2ce1-4cbc-b451-2387c7a14366" "Lecture 1: Introduction (PDF)" %}}
 
 ## Lecture Video
 
@@ -16,4 +16,4 @@ uid: a2ec6aa6-dfae-46cc-885d-7c778ee9a8fe
 
 ## Homework
 
-Homework 1  (PDF)
+{{% resource_link "955c77e0-659c-4deb-a659-2fbb3e4517c1" "Homework 1  (PDF)" %}}
