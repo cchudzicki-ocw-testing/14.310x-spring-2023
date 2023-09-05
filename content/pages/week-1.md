@@ -12,8 +12,8 @@ uid: a2ec6aa6-dfae-46cc-885d-7c778ee9a8fe
 
 ## Lecture Video
 
-{{< resource uuid="2b4ba32f-ae75-4a10-a633-1a43f25570e0" >}}
+ 
 
 ## Homework
 
-Homework 1 (DOC) (PDF)
+Homework 1  (PDF)
