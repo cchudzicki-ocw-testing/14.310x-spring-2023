@@ -108,19 +108,13 @@ What is the probability that the commute on a particular game day exceeds the co
 
 ## Long Question 3—Scrabble Pizza Party
 
-You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *i*
+You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *I* \= 1, ..., 10, and
 
 {{< resource uuid="fdd16b38-1807-498d-8a17-534157732200" >}}
 
  
 
- 
-
- 
-
-[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image024.gif)](https://www.codecogs.com/eqnedit.php?latex=s%5E2%20%3D%20%7B1%5Cover9%7D%5Csum_%7Bi%3D1%7D%5E%7B10%7D%20(X_i%20-%20%5Cbar%20X)%5E2%20%3D%202.7#0)
-
- 
+{{< resource uuid="3d442447-2497-4f1d-9261-17c4c51be2b8" >}}
 
 Assuming that the Xis are *i.i.d.* normal, construct a 95% confidence interval for the mean of the Xis. Enter the lower and upper bounds on the interval \[a,b\]
 
@@ -142,27 +136,24 @@ How many patrons would you have had to poll to limit the width of the confidence
 
 0.0/1.0 point (graded)
 
-True or False? Suppose your friend gives you the additional information that the s have a uniform distribution on  instead. Unfortunately, he has already thrown away the original data and kept the sample mean and the sample variance he computed. You can still construct a  confidence interval for the mean of the s.
+True or False? Suppose your friend gives you the additional information that the s have a uniform distribution on instead. Unfortunately, he has already thrown away the original data and kept the sample mean and the sample variance he computed. You can still construct a confidence interval for the mean of the s.
 
 True
 
 False
 
-## Long Question 4 - Neyman Analysis and Fisher Exact Test
+## Long Question 4—Neyman Analysis and Fisher Exact Test
 
-Suppose that the 8 large regions of Vietnam were randomized into one of the following groups: in some regions, the local health care centers continued to be run by the government (control group: 4 regions) or in others, the health centers were subcontracted out to a NGO (treatment group: 4 regions).
+Suppose that the 8 large regions of Vietnam were randomized into one of the following groups: 
 
- 
+- in some regions, the local health care centers continued to be run by the government (control group: 4 regions)
+- or in others, the health centers were subcontracted out to a NGO (treatment group: 4 regions).
 
 You have access to information from a child health survey, which covers  1,000 children per region and gives you information on whether or not the children have been fully immunized.
 
- 
-
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
- 
-
-Denote [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_T%7D%3D0.80#0) the sample average immunization rate in the treatment group, [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image030.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_T%5E2%3D1.2%5E2#0) the estimated variance in the treatment group and [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote 2[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_T%7D%3D0.80#0)the sample average immunization rate in the treatment group, [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image030.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_T%5E2%3D1.2%5E2#0) the estimated variance in the treatment group and [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
 
  
 
