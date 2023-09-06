@@ -108,7 +108,7 @@ What is the probability that the commute on a particular game day exceeds the co
 
 ## Long Question 3—Scrabble Pizza Party
 
-You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *I* \= 1, ..., 10, and
+You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *I* = 1, …, 10, and
 
 {{< resource uuid="fdd16b38-1807-498d-8a17-534157732200" >}}
 
@@ -153,23 +153,17 @@ You have access to information from a child health survey, which covers  1,000 
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote 2[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_T%7D%3D0.80#0)the sample average immunization rate in the treatment group, [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image030.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_T%5E2%3D1.2%5E2#0) the estimated variance in the treatment group and [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
-
- 
+Denote <sup>ӮT = 0.80</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_T%7D%3D0.80#0)the sample average immunization rate in the treatment group, <sup>ӮC = 0.58</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, **INSERT EQUATION** [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image030.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_T%5E2%3D1.2%5E2#0) the estimated variance in the treatment group and **INSERT EQUATION** [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0)the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
- 
-
 What is the collaborator's estimate of the associated variance?
-
- 
 
 ### Question 15
 
 0.0/1.0 point (graded)
 
-You object to the collaborator's approach, and instead propose to use the fact that the randomization was done at the region level very seriously and aggregate the data at the region level. Since the sample is small, you propose to run a Fisher exact test.
+You object to the collaborator's approach and instead propose to use the fact that the randomization was done at the region level very seriously and aggregate the data at the region level. Since the sample is small, you propose to run a Fisher exact test.
 
 **True or False:** The test will test the hypothesis H0 that the average treatment effect is significantly different from 0.
 
@@ -195,15 +189,9 @@ True or False? You can reject H0 at the 5% level.
 
 China suffers from an enormous gender imbalance: there are many more boys than girls. Part of this is due to selective abortion, and part is due to worse treatment of girls.
 
- 
-
 Nancy Qian was interested in finding out whether parents consider the future possible wages of a girl when deciding how much to feed them and take care of them. To this end, she exploits the reform that brought household responsibility system reform in China. After Den Xiao Ping replaced Mao in 1979, households were given the choice about what crop to grow (before, they essentially had to grow cereals), and suitable regions started producing tea and orchards.
 
- 
-
-Women are particularly useful for tea growing, which requires nimble hands. Therefore she proposed that parents would start taking better care of girls in regions that produce tea. Girls would be more likely to survive, and this would translate into a relatively lower share of males in those region after the reform, thus justifying a difference in difference approach.
-
- 
+Women are particularly useful for tea growing, which requires nimble hands. Therefore she proposed that parents would start taking better care of girls in regions that produce tea. Girls would be more likely to survive, and this would translate into a relatively lower share of males in those regions after the reform, thus justifying a difference in difference approach.
 
 Let POST be a dummy for post reform, and TEA be a dummy for whether the region produces tea. Let Yit be the fraction of boys in region i at time t.
 
