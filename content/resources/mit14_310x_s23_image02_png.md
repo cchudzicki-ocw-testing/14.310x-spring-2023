@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: mit14_310x_s23_image02.png
+title: Equation 1
 uid: 3d442447-2497-4f1d-9261-17c4c51be2b8
 video_files:
   archive_url: ''
