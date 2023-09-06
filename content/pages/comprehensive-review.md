@@ -7,13 +7,11 @@ uid: fbb3296f-7c11-431e-a51a-9dc9744c53e1
 ---
 ## Short Questions
 
- 
-
 ### Question 1
 
 0.0/1.0 point (graded)
 
-You realize your wallet is missing. You have either left it in the office or at a friends' place. It seems very likely, say  likely, that your friend would have texted you by now if you had left it at her place. You know it is unlikely, (say  probability), that someone in the office would have tracked you down by now if you had lost it there. You have not been contacted.
+You realize your wallet is missing. You have either left it in the office or at a friend's place. It seems very likely, say likely, that your friend would have texted you by now if you had left it at her place. You know it is unlikely, (say probability), that someone in the office would have tracked you down by now if you had lost it there. You have not been contacted.
 
 What other information do you need in order to compute the probability that you left it in the office? Select all that apply and select none of the above if none of the choices can be used to compute the probability that you left it in the office.
 
@@ -28,15 +26,13 @@ What other information do you need in order to compute the probability that you 
 
 True or False? The Poisson distribution is a special case of the exponential distribution.
 
-True
-
-False
-
 ### Question 3
 
 0.0/1.0 point (graded)
 
-Consider a [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)](https://www.codecogs.com/eqnedit.php?latex=p%20%3D%20A%2F(A%2BB).#0) Which of the following statements is true? Select all that apply.
+Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where 
+
+[<sup>![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)</sup>](https://www.codecogs.com/eqnedit.php?latex=p%20%3D%20A%2F(A%2BB).#0)*<sup>p</sup>*<sup>\=</sup> *<sup>A</sup>*<sup>/(</sup>*<sup>A + B</sup>*<sup>)</sup>. Which of the following statements is true? Select all that apply.
 
 1. The variance of the binomial is always smaller than the variance of the hypergeometric.
 2. The variance of the hypergeometric is always smaller than or equal to the variance of the binomial.
@@ -47,11 +43,7 @@ Consider a [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/cli
 
 0.0/1.0 point (graded)
 
-True or False? Knowing the distribution of the test statistic under the null allows you to calculate  (the probability of a type I error) and  (the probability of a type II error).
-
-True
-
-False
+True or False? Knowing the distribution of the test statistic under the null allows you to calculate (the probability of a type I error) and (the probability of a type II error).
 
 ### Question 5
 
@@ -59,21 +51,17 @@ False
 
 Suppose that judges can decide to whom they give a GPS bracelet to when individuals who have been arrested for a crime are released on bail (pending judgement).
 
-Separately, a researcher runs an RCT for the impact of bracelets: people who are released on bail are randomly assigned to recieve a bracelet or not. She finds that the bracelet reduces the probability of committing a crime while on bail by 5 percentage points (and this difference is significant).
+Separately, a researcher runs an RCT for the impact of bracelets: people who are released on bail are randomly assigned to receive a bracelet or not. She finds that the bracelet reduces the probability of committing a crime while on bail by 5 percentage points (and this difference is significant).
 
-Another researcher obtains a separate data set on the regular program (where the judge can decide whether or not to give the bracelet), that has many variables about the people who were arrested (including whether or not they were given a bracelet when released), and runs a machine learning algorithm to find out what predicts whether someone will commit a crime while on bail.They find that the bracelet tends to predict **greater** recidivism (recidivism means relapse into criminal behavior)
+Another researcher obtains a separate data set on the regular program (where the judge can decide whether or not to give the bracelet), that has many variables about the people who were arrested (including whether or not they were given a bracelet when released), and runs a machine learning algorithm to find out what predicts whether someone will commit a crime while on bail. They find that the bracelet tends to predict **greater** recidivism (recidivism means relapse into criminal behavior)
 
-This implies that one of the two studies must be incorrect.
+This implies that one of the two studies must be incorrect. 
 
-True
-
-False
+True or False?
 
 ## Long Question 1
 
-You are interested in doing a project on jail sentences and recidivism.  You find publicly available data listing plea deals and court decisions resulting in jail sentences for Middlesex County, Massachusetts.  The list contains de-identified information on offense, sex, age, and prison of incarceration.  You scrape the data and perform some preliminary analysis.  You wish to contact the prisoners and ask each to participate in a survey.  You then survey those who are willing and analyze the resulting data.
-
- 
+You are interested in doing a project on jail sentences and recidivism. You find publicly available data listing plea deals and court decisions resulting in jail sentences for Middlesex County, Massachusetts. The list contains de-identified information on offense, sex, age, and prison of incarceration. You scrape the data and perform some preliminary analysis. You wish to contact the prisoners and ask each to participate in a survey. You then survey those who are willing and analyze the resulting data.
 
 ### Question 6
 
@@ -81,35 +69,24 @@ You are interested in doing a project on jail sentences and recidivism.  You fi
 
 You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-You administer your survey.
-
-You do any preliminary analysis.
-
-You contact the prisoners.
-
-You scrape the data.
-
- 
+1. You administer your survey.
+2. You do any preliminary analysis.
+3. You contact the prisoners.
+4. You scrape the data.
 
 ### Question 7
 
 0.0/1.0 point (graded)
 
- 
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is *<sup>S</sup>*<sup>/32 +</sup> *<sup>D</sup>*<sup>/ 40 + 0.1</sup>*<sup>M</sup>.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a  uniform distribution 
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male).  In particular, the probability of recidivism, P(R), is [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)  Suppose also that S follows a  uniform distribution [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)](https://www.codecogs.com/eqnedit.php?latex=U(1%2C15)#0) ;  D follows an exponential distribution [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cexp(0.05)#0) ; and 80% of offenders are male.
+*<sup>U</sup>* <sup>(1, 15)</sup>[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)](https://www.codecogs.com/eqnedit.php?latex=U(1%2C15)#0) ; D follows an exponential distribution <sup>exp(0.05)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cexp(0.05)#0); and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
- 
+## Long Question 2—Prof. Ellison's Commute
 
-## Long Question 2 - Prof. Ellison's Commute
-
- 
-
-Sara Elison needs to commute to MIT everyday. She currently lives near campus, but is considering moving to a place near Fenway stadium (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(20%2C9)#0) (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(12%2C4)#0) (where 12 is the average commute and 4 is the variance) on other days.
-
- 
+Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a*<sup>N</sup>* <sup>(</sup>*<sup>20, 9</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(20%2C9)#0) (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and *<sup>N</sup>*<sup>(12,4)</sup>[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(12%2C4)#0) (where 12 is the average commute and 4 is the variance) on other days.
 
 ### Question 8
 
@@ -129,9 +106,9 @@ What is the probability that all commutes on a particular 3-game homestand (3 ga
 
 What is the probability that the commute on a particular game day exceeds the commute on a particular non-game day?
 
-## Long Question 3 - Scrabble Pizza Party
+## Long Question 3—Scrabble Pizza Party
 
-You and your friend decide to throw a scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat.  You perform a poll of ten randomly selected patrons to see how many slices they each ate.  Their responses are denoted [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.gif)](https://www.codecogs.com/eqnedit.php?latex=X_i#0),  [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image020.gif)](https://www.codecogs.com/eqnedit.php?latex=i%20%3D%201%2C%20%5Cdots%2C%2010#0), and
+You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *i*
 
  
 
