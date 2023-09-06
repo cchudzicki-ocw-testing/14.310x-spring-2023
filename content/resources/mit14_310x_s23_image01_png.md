@@ -8,8 +8,9 @@ file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
-learning_resource_types: []
+  image-alt: A mathematical equation
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: mit14_310x_s23_image01.png
