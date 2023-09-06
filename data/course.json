@@ -43,7 +43,11 @@
     "content": "0b6ded66-cb3b-481d-a0be-516a8141e22c",
     "website": "data-analysis-for-social-scientists"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Problem Sets"
+  ],
   "site_uid": "52fee8d6-6661-43c3-be67-447e86289c42",
   "site_short_id": "14.310x-spring-2023"
 }
