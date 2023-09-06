@@ -5,6 +5,10 @@ draft: false
 title: Syllabus
 uid: c61caefe-4e1c-4c71-96e9-ae0efd3a0e15
 ---
+## Class Meeting Times
+
+Lecture: 2 sessions / week; 1 hour / session
+
 ## Prerequisites
 
 You should be prepared to keep up with an approach to economics that is somewhat mathematical. We suggest that you have taken high school calculus or the equivalent. We will use algebra in the lectures, problem sets, and exams.
@@ -15,6 +19,17 @@ This course introduces methods for harnessing data to answer questions of cultur
 
 We will illustrate these concepts with applications drawn from real-world examples and frontier research. Finally, we will provide instruction on the use of the statistical package R, and opportunities for students to perform self-directed empirical analyses. Students taking the graduate version will complete additional assignments. 
 
-## Assignments and Grading Scheme
+## Assignments 
 
-For most weeks during the course, there will be a homework assignment that covers the main topics in that unit. In addition, there will be a final exam. Please see the
+For most weeks during the course, there will be a homework assignment that covers the main topics in that unit. In addition, there will be a final exam. 
+
+## Reading Assignments
+
+There are no required texts for the course. We will draw on material from many sources. For the first half of the course, a book in probability and statistics could be useful for reference. Possible titles include [*Introduction to Mathematical Statistics and its Applications*](https://www.worldcat.org/title/502674159) 
+
+by Larsen and Marx, [*Probability*](https://www.worldcat.org/title/1020304276)  
+[*and Statistics*](https://www.worldcat.org/title/1020304276) by DeGroot and Schervish, or [*Statistical Theory*](https://www.worldcat.org/title/1004350727) by Lindgren. The first is probably the easiest and most discursive. The second is an excellent but somewhat more difficult book. The third is a great book for reference but doesn’t offer much intuition.
+
+There is no text that will cover most of the second half of the course, but both [*Introductory Econometric*s](https://www.worldcat.org/title/1030403996) by Wooldridge and [*Introduction to Econometrics*](https://www.worldcat.org/title/1048659442) by Stock and Watson have some overlap with what we will do and could be useful references in the future.
+
+We also recommend [*Data Analysis for Social Scientists: A Foundational Crash Course*](https://www.amazon.com/Data-Analysis-Social-Scientists-Foundational/dp/B0B28N722F/ref=sr_1_1?crid=YU6JZWRPXIFQ&keywords=sara+fisher+ellison&qid=1684332789&sprefix=sara+fisher+ellison%2Caps%2C79&sr=8-1) by our very own Sara Ellison.
