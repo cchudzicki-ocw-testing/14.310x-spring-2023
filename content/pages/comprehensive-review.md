@@ -30,7 +30,7 @@ True or False? The Poisson distribution is a special case of the exponential dis
 
 0.0/1.0 point (graded)
 
-Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where 
+Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where
 
 [<sup>![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)</sup>](https://www.codecogs.com/eqnedit.php?latex=p%20%3D%20A%2F(A%2BB).#0)*<sup>p</sup>*<sup>\=</sup> *<sup>A</sup>*<sup>/(</sup>*<sup>A + B</sup>*<sup>)</sup>. Which of the following statements is true? Select all that apply.
 
@@ -78,7 +78,7 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 0.0/1.0 point (graded)
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is *<sup>S</sup>*<sup>/32 +</sup> *<sup>D</sup>*<sup>/ 40 + 0.1</sup>*<sup>M</sup>.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a  uniform distribution 
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is *<sup>S</sup>*<sup>/32 +</sup> *<sup>D</sup>*<sup>/ 40 + 0.1</sup>*<sup>M</sup>.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a  uniform distribution
 
 *<sup>U</sup>* <sup>(1, 15)</sup>[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)](https://www.codecogs.com/eqnedit.php?latex=U(1%2C15)#0) ; D follows an exponential distribution <sup>exp(0.05)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cexp(0.05)#0); and 80% of offenders are male.
 
@@ -110,9 +110,9 @@ What is the probability that the commute on a particular game day exceeds the co
 
 You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *i*
 
- 
+{{< resource uuid="fdd16b38-1807-498d-8a17-534157732200" >}}
 
-[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image022.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cbar%20X%20%3D%20%7B1%5Cover10%7D%5Csum_%7Bi%3D1%7D%5E%7B10%7D%20X_i%20%3D%204.3#0)
+ 
 
  
 
