@@ -195,29 +195,19 @@ Women are particularly useful for tea growing, which requires nimble hands. Ther
 
 Let POST be a dummy for post reform, and TEA be a dummy for whether the region produces tea. Let Yit be the fraction of boys in region i at time t.
 
- 
-
 She runs the following regression:
 
- 
+{{< resource uuid="a84b2d7a-91b3-4acb-a5e3-cd1c5020cf75" >}}
 
-[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)
-
- 
-
-### Question 17
+## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
 
 0.0/1.0 point (graded)
 
 This question has 3 parts:
 
-Given the regression she runs, which variables denote the average fraction of males in tea-regions, pre-reform?
-
-Given the regression she runs, which variables denote the average fraction of males in non-tea regions, pre-reform?
-
-In this strategy, which coefficient gives her the causal effect of growing tea on the average fraction of males?
-
- 
+- Given the regression she runs, which variables denote the average fraction of males in tea-regions, pre-reform?
+- Given the regression she runs, which variables denote the average fraction of males in non-tea regions, pre-reform?
+- In this strategy, which coefficient gives her the causal effect of growing tea on the average fraction of males?
 
 ### Question 18
 
