@@ -30,6 +30,8 @@ True or False? The Poisson distribution is a special case of the exponential dis
 
 0.0/1.0 point (graded)
 
+Consider a \\(\\mathcal{B}\\)
+
 Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where
 
 [<sup>![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)</sup>](https://www.codecogs.com/eqnedit.php?latex=p%20%3D%20A%2F(A%2BB).#0)*<sup>p</sup>*<sup>\=</sup> *<sup>A</sup>*<sup>/(</sup>*<sup>A + B</sup>*<sup>)</sup>. Which of the following statements is true? Select all that apply.
