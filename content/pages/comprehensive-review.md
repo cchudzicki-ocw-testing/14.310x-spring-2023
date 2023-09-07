@@ -110,11 +110,11 @@ What is the probability that the commute on a particular game day exceeds the co
 
 You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *I* = 1, …, 10, and
 
-{{< resource uuid="fdd16b38-1807-498d-8a17-534157732200" >}}
+ 
 
  
 
-{{< resource uuid="3d442447-2497-4f1d-9261-17c4c51be2b8" >}}
+ 
 
 Assuming that the Xis are *i.i.d.* normal, construct a 95% confidence interval for the mean of the Xis. Enter the lower and upper bounds on the interval \[a,b\]
 
@@ -197,7 +197,7 @@ Let POST be a dummy for post reform, and TEA be a dummy for whether the region p
 
 She runs the following regression:
 
-{{< resource uuid="a84b2d7a-91b3-4acb-a5e3-cd1c5020cf75" >}}
+ 
 
 ## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
 
