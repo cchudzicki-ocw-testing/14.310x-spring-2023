@@ -147,7 +147,7 @@ You have access to information from a child health survey, which covers  1,000 
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote \\(\\overline{Y\_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\\overline{Y\_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote \\(\overline{Y_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\overline{Y_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
@@ -191,7 +191,7 @@ Let POST be a dummy for post reform, and TEA be a dummy for whether the region p
 
 She runs the following regression:
 
- 
+\\(Y\_{it}=\\beta\_0+\\beta\_{1}TEA\_i+\\beta\_{2}POST\_i+\\beta\_{3}POST\_i\\astTEA\_i+\\epsilon\_{it}\\)
 
 ## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
 
