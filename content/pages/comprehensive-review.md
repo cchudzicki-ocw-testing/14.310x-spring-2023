@@ -191,7 +191,7 @@ Let POST be a dummy for post reform, and TEA be a dummy for whether the region p
 
 She runs the following regression:
 
-\\(Y\_{it}=\\beta\_0+\\beta\_{1}TEA\_i+\\beta\_{2}POST\_i+\\beta\_{3}POST\_i\\astTEA\_i+\\epsilon\_{it}\\)
+\\(Y\_{it}=\\beta\_0+\\beta\_{1}TEA\_i+\\beta\_{2}POST\_i+\\beta\_{3}POST\_i\\ast{TEA\_i}+\\epsilon\_{it}\\)
 
 ## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
 
