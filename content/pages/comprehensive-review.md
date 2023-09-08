@@ -30,7 +30,7 @@ True or False? The Poisson distribution is a special case of the exponential dis
 
 0.0/1.0 point (graded)
 
-Consider a \\(\\mathcal{B}(n, p)\\) and a \\(\\mathcal{H}(A, B, n)\\) where \\(p=A/(A+B)\\). Which of the following statements is true? Select all that apply.
+Consider a \\(\mathcal{B}(n, p)\\) and a \\(\mathcal{H}(A, B, n)\\) where \\(p=A/(A+B)\\). Which of the following statements is true? Select all that apply.
 
 1. The variance of the binomial is always smaller than the variance of the hypergeometric.
 2. The variance of the hypergeometric is always smaller than or equal to the variance of the binomial.
@@ -76,9 +76,9 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 0.0/1.0 point (graded)
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is *<sup>S</sup>*<sup>/32 +</sup> *<sup>D</sup>*<sup>/ 40 + 0.1</sup>*<sup>M</sup>.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a  uniform distribution
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a  uniform distribution
 
-*<sup>U</sup>* <sup>(1, 15)</sup>[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif)](https://www.codecogs.com/eqnedit.php?latex=U(1%2C15)#0) ; D follows an exponential distribution <sup>exp(0.05)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cexp(0.05)#0); and 80% of offenders are male.
+\\(\\U(1,15)); D follows an exponential distribution \\(exp(0.05)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Cexp(0.05)#0); and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
