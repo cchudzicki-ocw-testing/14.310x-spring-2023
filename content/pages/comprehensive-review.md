@@ -108,9 +108,7 @@ You and your friend decide to throw a Scrabble pizza party. You don't know how m
 
 \\(\bar{X}=\frac{1}{10}\sum_{i=1}^{10}X_i=4.3\\)
 
-\\(s^2=\\frac{1}{9}\\sum\_{i=1}^{10}(X\_i-\\bar{X})^2=4.3\\)
-
- 
+\\(s^2=\\frac{1}{9}\\sum\_{i=1}^{10}(X\_i-\\bar{X})^2=2.7\\)
 
 Assuming that the Xis are *i.i.d.* normal, construct a 95% confidence interval for the mean of the Xis. Enter the lower and upper bounds on the interval \[a,b\]
 
