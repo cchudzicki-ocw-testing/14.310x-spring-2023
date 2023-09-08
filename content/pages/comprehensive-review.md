@@ -30,7 +30,7 @@ True or False? The Poisson distribution is a special case of the exponential dis
 
 0.0/1.0 point (graded)
 
-Consider a \\(\\mathcal{B}\\)
+Consider a \\(\mathcal{B}\\)
 
 Consider a *<sup>B</sup>*<sup>(</sup>*<sup>n,p</sup>*<sup>)</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20B%7D(n%2Cp)#0) and a *<sup>H</sup>*(*<sup>A, B, n</sup>*) [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20H%7D(A%2CB%2Cn)#0) where
 
@@ -110,7 +110,7 @@ What is the probability that the commute on a particular game day exceeds the co
 
 ## Long Question 3—Scrabble Pizza Party
 
-You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted Xi, *I* = 1, …, 10, and
+You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted X, *I* = 1, …, 10, and
 
  
 
