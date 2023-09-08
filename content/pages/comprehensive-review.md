@@ -76,7 +76,7 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 0.0/1.0 point (graded)
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a uniform distribution \\(\\U(1,15)); D follows an exponential distribution \\(exp(0.05)\\); and 80% of offenders are male.
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a uniform distribution \\(U(1,15)\\); and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
