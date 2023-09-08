@@ -108,7 +108,7 @@ You and your friend decide to throw a Scrabble pizza party. You don't know how m
 
 \\(\bar{X}=\frac{1}{10}\sum_{i=1}^{10}X_i=4.3\\)
 
-\\(s^2=\\frac{1}{9}\\sum\_{i=1}^{10}(X\_i-\\bar{X})^2=2.7\\)
+\\(s^2=\frac{1}{9}\sum_{i=1}^{10}(X_i-\bar{X})^2=2.7\\)
 
 Assuming that the Xis are *i.i.d.* normal, construct a 95% confidence interval for the mean of the Xis. Enter the lower and upper bounds on the interval \[a,b\]
 
@@ -147,7 +147,7 @@ You have access to information from a child health survey, which covers  1,000 
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote <sup>ӮT = 0.80</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_T%7D%3D0.80#0)the sample average immunization rate in the treatment group, <sup>ӮC = 0.58</sup> [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote \\(\\bar{Y\_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\\bar{Y\_C}=0.58\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
