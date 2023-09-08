@@ -82,7 +82,7 @@ What is the expected recidivism rate?
 
 ## Long Question 2—Prof. Ellison's Commute
 
-Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a \\(\\mathcal{N}(20,9)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(20%2C9)#0) (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and \\(\\mathcal{N}(12,4)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(12%2C4)#0) (where 12 is the average commute and 4 is the variance) on other days.
+Sara Elison needs to commute to MIT every day. She currently lives near campus, but is considering moving to a place near Fenway Park (Boston's baseball stadium). Her colleagues who live near there tell her that the commute from the office to the Fenway is independent across days and follows a \\(\mathcal{N}(20,9)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(20%2C9)#0) (where 20 is the average commute and 9 is the variance) on days where there is a home game at Fenway and \\(\mathcal{N}(12,4)\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif)](https://www.codecogs.com/eqnedit.php?latex=%7B%5Ccal%20N%7D(12%2C4)#0) (where 12 is the average commute and 4 is the variance) on other days.
 
 ### Question 8
 
@@ -104,7 +104,7 @@ What is the probability that the commute on a particular game day exceeds the co
 
 ## Long Question 3—Scrabble Pizza Party
 
-You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted X, *I* = 1, …, 10, and
+You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted \\(X\_i, i= 1, …, 10\\), and
 
  
 
