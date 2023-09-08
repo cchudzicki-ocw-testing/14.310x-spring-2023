@@ -147,7 +147,7 @@ You have access to information from a child health survey, which covers  1,000 
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote \\(\\bar{Y\_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\\bar{Y\_C}=0.58\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Coverline%7BY_C%7D%3D0.58#0) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote \\(\\overline{Y\_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\\overline{Y\_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
