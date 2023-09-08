@@ -106,7 +106,7 @@ What is the probability that the commute on a particular game day exceeds the co
 
 You and your friend decide to throw a Scrabble pizza party. You don't know how many pizzas to order, so you want to obtain an estimate of slices each person would eat. You perform a poll of ten randomly selected patrons to see how many slices they each ate. Their responses are denoted \\(X_i, i= 1, …, 10\\), and
 
-\\(X\\bar=\\frac{1}{10}\\sum\_{i=1}^10X\_i=4.3\\)
+$$\\bar{X}=\\frac{1}{10}\\sum\_{i=1}^{10}X\_i=4.3$$
 
  
 
