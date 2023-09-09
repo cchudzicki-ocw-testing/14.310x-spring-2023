@@ -76,7 +76,7 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 0.0/1.0 point (graded)
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, \\(S\\), distance of prison from hometown, \\(D\\), and sex of offender, (\\(M\\) =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that \\(S\\) follows a uniform distribution \\(U(1,15)\\); \\(D\\) follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, \\(S\\), distance of prison from hometown, \\(D\\), and sex of offender, (\\(M\\) =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that \\(S\\) follows a uniform distribution \\(U(1,15)\\); \\(D\\) follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
@@ -187,7 +187,7 @@ Nancy Qian was interested in finding out whether parents consider the future pos
 
 Women are particularly useful for tea growing, which requires nimble hands. Therefore she proposed that parents would start taking better care of girls in regions that produce tea. Girls would be more likely to survive, and this would translate into a relatively lower share of males in those regions after the reform, thus justifying a difference in difference approach.
 
-Let POST be a dummy for post reform, and TEA be a dummy for whether the region produces tea. Let Yit be the fraction of boys in region i at time t.
+Let \\(POST\\) be a dummy for post reform, and \\(TEA\\) be a dummy for whether the region produces tea. Let \\(Y\_{it}\\) be the fraction of boys in region i at time t.
 
 She runs the following regression:
 
