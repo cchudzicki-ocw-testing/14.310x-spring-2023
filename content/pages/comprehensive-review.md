@@ -34,7 +34,7 @@ Consider a \\(\mathcal{B}(n, p)\\) and a \\(\mathcal{H}(A, B, n)\\) where \
 
 1. The variance of the binomial is always smaller than the variance of the hypergeometric.
 2. The variance of the hypergeometric is always smaller than or equal to the variance of the binomial.
-3. The relative sizes of the variances depend on the choice of both n and p.
+3. The relative sizes of the variances depend on the choice of both \\(n\\) and \\(p\\).
 4. The variance of the binomial is always smaller than or equal to the variance of the hypergeometric.
 
 ### Question 4
@@ -76,7 +76,7 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 0.0/1.0 point (graded)
 
-Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that S follows a uniform distribution \\(U(1,15)\\); D follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
+Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, S, distance of prison from hometown, D, and sex of offender, (M =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that \\(S\\) follows a uniform distribution \\(U(1,15)\\); \\(D\\) follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
 
 What is the expected recidivism rate?
 
@@ -191,7 +191,7 @@ Let POST be a dummy for post reform, and TEA be a dummy for whether the region p
 
 She runs the following regression:
 
-\\(Y\_{it}=\\beta\_0+\\beta\_{1}TEA\_i+\\beta\_{2}POST\_i+\\beta\_{3}POST\_i\\ast{TEA\_i}+\\epsilon\_{it}\\)
+\\(Y_{it}=\beta_0+\beta_{1}TEA_i+\beta_{2}POST_i+\beta_{3}POST_i\ast{TEA_i}+\epsilon_{it}\\)
 
 ## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
 
