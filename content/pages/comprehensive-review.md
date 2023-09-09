@@ -187,7 +187,7 @@ Nancy Qian was interested in finding out whether parents consider the future pos
 
 Women are particularly useful for tea growing, which requires nimble hands. Therefore she proposed that parents would start taking better care of girls in regions that produce tea. Girls would be more likely to survive, and this would translate into a relatively lower share of males in those regions after the reform, thus justifying a difference in difference approach.
 
-Let \\(POST\\) be a dummy for post reform, and \\(TEA\\) be a dummy for whether the region produces tea. Let \\(Y\_{it}\\) be the fraction of boys in region i at time t.
+Let \\(POST\\) be a dummy for post reform, and \\(TEA\\) be a dummy for whether the region produces tea. Let \\(Y_{it}\\) be the fraction of boys in region \\(i\\) at time \\(t\\).
 
 She runs the following regression:
 
