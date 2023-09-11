@@ -18,4 +18,4 @@ uid: 15aa8ef1-02ea-4497-9a37-1c6d790e3ea3
 
 ## Homework
 
-{{% resource_link "4ef5e92c-1f3c-40f5-83f4-223e7a01af74" "Homework 4 (PDF)" %}} |  {{% resource_link "4e7dfe2f-80af-4fce-a83c-1f8aa8008cbb" "Homework 4 Data and Code" %}}
+{{% resource_link "4ef5e92c-1f3c-40f5-83f4-223e7a01af74" "Homework 4 (PDF)" %}} | {{% resource_link "4e7dfe2f-80af-4fce-a83c-1f8aa8008cbb" "Homework 4 Data and Code" %}}
