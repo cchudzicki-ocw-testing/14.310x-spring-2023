@@ -199,7 +199,7 @@ This question has 3 parts:
 
 0.0/1.0 point (graded)
 
-True or False? Instead of including the TEA dummy, she could include one dummy for each of the regions (excluding one) to account for inherent differences between regions.
+True or false? Instead of including the TEA dummy, she could include one dummy for each of the regions (excluding one) to account for inherent differences between regions.
 
 ## Long Question 6 - More on Flowers in China
 
