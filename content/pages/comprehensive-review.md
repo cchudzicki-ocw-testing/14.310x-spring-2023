@@ -13,18 +13,18 @@ uid: fbb3296f-7c11-431e-a51a-9dc9744c53e1
 
 You realize your wallet is missing. You have either left it in the office or at a friend's place. It seems very likely, say likely, that your friend would have texted you by now if you had left it at her place. You know it is unlikely, (say probability), that someone in the office would have tracked you down by now if you had lost it there. You have not been contacted.
 
-What other information do you need in order to compute the probability that you left it in the office? Select all that apply and select none of the above if none of the choices can be used to compute the probability that you left it in the office.
+What other information do you need in order to compute the probability that you left it in the office? Select all that apply and select "none of the above" if none of the choices can be used to compute the probability that you left it in the office.
 
-1. the conditional probability that you left it at your friends.
-2. the conditional probability that you left it in the office.
-3. the prior probability that you left your wallet in the office.
-4. None of the above.
+1. the conditional probability that you left it at your friends
+2. the conditional probability that you left it in the office
+3. the prior probability that you left your wallet in the office
+4. none of the above.
 
 ### Question 2
 
 0.0/1.0 point (graded)
 
-True or False? The Poisson distribution is a special case of the exponential distribution.
+True or false? The Poisson distribution is a special case of the exponential distribution.
 
 ### Question 3
 
@@ -41,21 +41,19 @@ Consider a \\(\mathcal{B}(n, p)\\) and a \\(\mathcal{H}(A, B, n)\\) where \
 
 0.0/1.0 point (graded)
 
-True or False? Knowing the distribution of the test statistic under the null allows you to calculate (the probability of a type I error) and (the probability of a type II error).
+True or false? Knowing the distribution of the test statistic under the null allows you to calculate (the probability of a type I error) and (the probability of a type II error).
 
 ### Question 5
 
 0.0/1.0 point (graded)
 
-Suppose that judges can decide to whom they give a GPS bracelet to when individuals who have been arrested for a crime are released on bail (pending judgement).
+Suppose that judges can decide to whom they give a GPS bracelet when individuals who have been arrested for a crime are released on bail (pending judgement).
 
 Separately, a researcher runs an RCT for the impact of bracelets: people who are released on bail are randomly assigned to receive a bracelet or not. She finds that the bracelet reduces the probability of committing a crime while on bail by 5 percentage points (and this difference is significant).
 
-Another researcher obtains a separate data set on the regular program (where the judge can decide whether or not to give the bracelet), that has many variables about the people who were arrested (including whether or not they were given a bracelet when released), and runs a machine learning algorithm to find out what predicts whether someone will commit a crime while on bail. They find that the bracelet tends to predict **greater** recidivism (recidivism means relapse into criminal behavior)
+Another researcher obtains a separate data set on the regular program (where the judge can decide whether or not to give the bracelet), that has many variables about the people who were arrested (including whether or not they were given a bracelet when released), and runs a machine learning algorithm to find out what predicts whether someone will commit a crime while on bail. They find that the bracelet tends to predict **greater** recidivism ("recidivism" means relapse into criminal behavior)
 
-This implies that one of the two studies must be incorrect. 
-
-True or False?
+True or false? This implies that one of the two studies must be incorrect. 
 
 ## Long Question 1
 
@@ -110,9 +108,9 @@ You and your friend decide to throw a Scrabble pizza party. You don't know how m
 
 \\(s^2=\frac{1}{9}\sum_{i=1}^{10}(X_i-\bar{X})^2=2.7\\)
 
-Assuming that the \\(X_i\\)s are *i.i.d.* normal, construct a 95% confidence interval for the mean of the \\(X_i\\)s. Enter the lower and upper bounds on the interval \[a,b\]
+Assuming that the \\(X_i\\)s are *i.i.d.* normal, construct a 95% confidence interval for the mean of the \\(X_i\\)s. Enter the lower and upper bounds on the interval \[a,b\].
 
-*Please round your answer to 2 decimal points*
+*Please round your answer to 2 decimal points.*
 
 Lower bound **a**:
 
@@ -130,24 +128,22 @@ How many patrons would you have had to poll to limit the width of the confidence
 
 0.0/1.0 point (graded)
 
-True or False? Suppose your friend gives you the additional information that the s have a uniform distribution on instead. Unfortunately, he has already thrown away the original data and kept the sample mean and the sample variance he computed. You can still construct a confidence interval for the mean of the s.
+Suppose your friend gives you the additional information that the s have a uniform distribution on instead. Unfortunately, he has already thrown away the original data and kept the sample mean and the sample variance he computed.
 
-True
-
-False
+True or false? You can still construct a confidence interval for the mean of the s.
 
 ## Long Question 4—Neyman Analysis and Fisher Exact Test
 
 Suppose that the 8 large regions of Vietnam were randomized into one of the following groups: 
 
-- in some regions, the local health care centers continued to be run by the government (control group: 4 regions)
-- or in others, the health centers were subcontracted out to a NGO (treatment group: 4 regions).
+- In some regions, the local health care centers continued to be run by the government (control group: 4 regions).
+- In others, the health centers were subcontracted out to a NGO (treatment group: 4 regions).
 
 You have access to information from a child health survey, which covers  1,000 children per region and gives you information on whether or not the children have been fully immunized.
 
 A collaborator proposes to run a standard Neyman analysis on the sample of 4,000 treatment and 4,000 control children, ignoring the region altogether.
 
-Denote \\(\overline{Y_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\overline{Y_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
+Denote \\(\overline{Y_T}=0.80\\) the sample average immunization rate in the treatment group, \\(\overline{Y_C}=0.58\\) the sample average immunization rate in the control group, \\(\sigma^2_T=1.2^2\\) the estimated variance in the treatment group, and \\(\sigma^2_C=2.3^2\\)[![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.gif)](https://www.codecogs.com/eqnedit.php?latex=%5Csigma_C%5E2%3D2.3%5E2#0) the estimated variance in the control group.
 
 What is the collaborator's estimate of the average treatment effect?
 
@@ -159,11 +155,7 @@ What is the collaborator's estimate of the associated variance?
 
 You object to the collaborator's approach and instead propose to use the fact that the randomization was done at the region level very seriously and aggregate the data at the region level. Since the sample is small, you propose to run a Fisher exact test.
 
-**True or False:** The test will test the hypothesis H0 that the average treatment effect is significantly different from 0.
-
-True
-
-False
+True or false? The test will test the hypothesis H<sub>0</sub> that the average treatment effect is significantly different from 0.
 
 ### Question 16
 
@@ -175,19 +167,19 @@ Treatment regions: 85%, 99%, 100%, 76%
 
 Control regions: 26%, 45%, 97%, 72%
 
-Using a Permutation Table or R code, construct your Fisher exact test. Please enter the p-value you obtained from the test you constructed.
+Using a permutation table or R code, construct your Fisher exact test. Please enter the p-value you obtained from the test you constructed.
 
-True or False? You can reject H0 at the 5% level.
+True or false? You can reject H0 at the 5% level.
 
 ## Long Question 5 - Flowers in China
 
 China suffers from an enormous gender imbalance: there are many more boys than girls. Part of this is due to selective abortion, and part is due to worse treatment of girls.
 
-Nancy Qian was interested in finding out whether parents consider the future possible wages of a girl when deciding how much to feed them and take care of them. To this end, she exploits the reform that brought household responsibility system reform in China. After Den Xiao Ping replaced Mao in 1979, households were given the choice about what crop to grow (before, they essentially had to grow cereals), and suitable regions started producing tea and orchards.
+Nancy Qian was interested in finding out whether parents consider the future possible wages of a girl when deciding how much to feed them and take care of them. To this end, she exploits the reform that brought household responsibility system reform in China. After Deng Xiaoping replaced Mao Zedong in 1979, households were given the choice about what crop to grow (before, they essentially had to grow cereals), and suitable regions started producing tea and orchards.
 
 Women are particularly useful for tea growing, which requires nimble hands. Therefore she proposed that parents would start taking better care of girls in regions that produce tea. Girls would be more likely to survive, and this would translate into a relatively lower share of males in those regions after the reform, thus justifying a difference in difference approach.
 
-Let \\(POST\\) be a dummy for post reform, and \\(TEA\\) be a dummy for whether the region produces tea. Let \\(Y_{it}\\) be the fraction of boys in region \\(i\\) at time \\(t\\).
+Let \\(POST\\) be a dummy for post reform, and \\(TEA\\) be a dummy for whether the region produces tea. Let \\(Y_{it}\\) be the fraction of boys in region \\(i\\) at time \\(t\\).
 
 She runs the following regression:
 
@@ -245,7 +237,7 @@ Create a variable post=1 if birthyear >= 1979 Similarly, create the interaction 
 
 In how many observations is the dummy post switched on?
 
-*In part 2, please round your answer to the third decimal place, i.e. if your answer is 0.1245, round to 0.125 and if it is 0.1243, round to 0.124*
+*In part 2, please round your answer to the third decimal place, i.e. if your answer is 0.1245, round to 0.125 and if it is 0.1243, round to 0.124.*
 
 Observations:
 
