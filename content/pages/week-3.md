@@ -16,8 +16,4 @@ uid: 2ba407e0-bf1f-40f9-9e07-5acd04425b0a
 
 ## Homework
 
-{{% resource_link "79a7e08d-f4d0-42a3-9fe4-616c38294617" "Homework 3—Part 1 (PDF)" %}}
-
-{{% resource_link "120c1e62-010f-4284-ba5a-d7577e964592" "Homework 3—Part 2 (PDF)" %}}
-
-{{% resource_link "9e4c94a6-4470-4f7b-a860-3cc4a59c0e11" "Homework 3 Data and Code" %}}
+{{% resource_link "79a7e08d-f4d0-42a3-9fe4-616c38294617" "Homework 3—Part 1 (PDF)" %}}|{{% resource_link "120c1e62-010f-4284-ba5a-d7577e964592" "Homework 3—Part 2 (PDF)" %}}|{{% resource_link "9e4c94a6-4470-4f7b-a860-3cc4a59c0e11" "Homework 3 Data and Code" %}}
