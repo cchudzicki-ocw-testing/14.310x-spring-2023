@@ -11,7 +11,7 @@ uid: fbb3296f-7c11-431e-a51a-9dc9744c53e1
 
 0.0/1.0 point (graded)
 
-You realize your wallet is missing. You have either left it in the office or at a friend's place. It seems very likely, say likely, that your friend would have texted you by now if you had left it at her place. You know it is unlikely, (say probability), that someone in the office would have tracked you down by now if you had lost it there. You have not been contacted.
+You realize your wallet is missing. You have either left it in the office or at a friend's place. It seems very likely that your friend would have texted you by now if you had left it at her place. You know it is unlikely that someone in the office would have tracked you down by now if you had lost it there. You have not been contacted.
 
 What other information do you need in order to compute the probability that you left it in the office? Select all that apply and select "none of the above" if none of the choices can be used to compute the probability that you left it in the office.
 
