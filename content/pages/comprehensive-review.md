@@ -9,8 +9,6 @@ uid: fbb3296f-7c11-431e-a51a-9dc9744c53e1
 
 ### Question 1
 
-0.0/1.0 point (graded)
-
 You realize your wallet is missing. You have either left it in the office or at a friend's place. It seems very likely that your friend would have texted you by now if you had left it at her place. You know it is unlikely that someone in the office would have tracked you down by now if you had lost it there. You have not been contacted.
 
 What other information do you need in order to compute the probability that you left it in the office? Select all that apply and select "none of the above" if none of the choices can be used to compute the probability that you left it in the office.
@@ -22,13 +20,9 @@ What other information do you need in order to compute the probability that you 
 
 ### Question 2
 
-0.0/1.0 point (graded)
-
 True or false? The Poisson distribution is a special case of the exponential distribution.
 
 ### Question 3
-
-0.0/1.0 point (graded)
 
 Consider a \\(\mathcal{B}(n, p)\\) and a \\(\mathcal{H}(A, B, n)\\) where \\(p=A/(A+B)\\). Which of the following statements is true? Select all that apply.
 
@@ -39,13 +33,9 @@ Consider a \\(\mathcal{B}(n, p)\\) and a \\(\mathcal{H}(A, B, n)\\) where \
 
 ### Question 4
 
-0.0/1.0 point (graded)
-
 True or false? Knowing the distribution of the test statistic under the null allows you to calculate (the probability of a type I error) and (the probability of a type II error).
 
 ### Question 5
-
-0.0/1.0 point (graded)
 
 Suppose that judges can decide to whom they give a GPS bracelet when individuals who have been arrested for a crime are released on bail (pending judgement).
 
@@ -61,8 +51,6 @@ You are interested in doing a project on jail sentences and recidivism. You fin
 
 ### Question 6
 
-0.0/1.0 point (graded)
-
 You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 1. You administer your survey.
@@ -71,8 +59,6 @@ You must obtain approval from your IRB before \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 4. You scrape the data.
 
 ### Question 7
-
-0.0/1.0 point (graded)
 
 Suppose you conclude, later in continuing research, that recidivism (whether released prisoners commit additional crimes) is a function of length of original sentence, \\(S\\), distance of prison from hometown, \\(D\\), and sex of offender, (\\(M\\) =1 if male). In particular, the probability of recidivism, P(R), is \\(S/32+D/40+0.1M\\)*.* [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)](https://www.codecogs.com/eqnedit.php?latex=S%2F32%20%2B%20D%2F40%20%2B%200.1M.#0)Suppose also that \\(S\\) follows a uniform distribution \\(U(1,15)\\); \\(D\\) follows an exponential distribution \\(\exp(0.05)\\); and 80% of offenders are male.
 
@@ -84,19 +70,13 @@ Sara Elison needs to commute to MIT every day. She currently lives near campus, 
 
 ### Question 8
 
-0.0/1.0 point (graded)
-
 What is the probability that the commute on a particular game day exceeds 22 minutes?
 
 ### Question 9
 
-0.0/1.0 point (graded)
-
 What is the probability that all commutes on a particular 3-game homestand (3 games played at Fenway) exceed 22 minutes?
 
 ### Question 10
-
-0.0/1.0 point (graded)
 
 What is the probability that the commute on a particular game day exceeds the commute on a particular non-game day?
 
@@ -118,15 +98,11 @@ Upper bound **b**:
 
 ### Question 12
 
-0.0/1.0 point (graded)
-
 How many patrons would you have had to poll to limit the width of the confidence interval to one slice?
 
 *Please round your answer **up** to the nearest whole number.*
 
 ### Question 13
-
-0.0/1.0 point (graded)
 
 Suppose your friend gives you the additional information that the s have a uniform distribution on instead. Unfortunately, he has already thrown away the original data and kept the sample mean and the sample variance he computed.
 
@@ -151,15 +127,11 @@ What is the collaborator's estimate of the associated variance?
 
 ### Question 15
 
-0.0/1.0 point (graded)
-
 You object to the collaborator's approach and instead propose to use the fact that the randomization was done at the region level very seriously and aggregate the data at the region level. Since the sample is small, you propose to run a Fisher exact test.
 
 True or false? The test will test the hypothesis H<sub>0</sub> that the average treatment effect is significantly different from 0.
 
 ### Question 16
-
-0.0/1.0 point (graded)
 
 At the regional level, the rates of fully immunized children in treatment regions are as follows:
 
@@ -187,8 +159,6 @@ She runs the following regression:
 
 ## [![](file:///C:/Users/CHERYL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.gif)](https://www.codecogs.com/eqnedit.php?latex=Y_%7Bit%7D%3D%5Cbeta%20_0%2B%5Cbeta%20_1%20TEA_%20i%20%2B%5Cbeta%20_2%20POST_%20t%20%2B%5Cbeta%20_3%20POST_%20t*TEA_%20i%2B%5Cepsilon%20_%7Bit%7D#0)Question 17
 
-0.0/1.0 point (graded)
-
 This question has 3 parts:
 
 - Given the regression she runs, which variables denote the average fraction of males in tea-regions, pre-reform?
@@ -196,8 +166,6 @@ This question has 3 parts:
 - In this strategy, which coefficient gives her the causal effect of growing tea on the average fraction of males?
 
 ### Question 18
-
-0.0/1.0 point (graded)
 
 True or false? Instead of including the TEA dummy, she could include one dummy for each of the regions (excluding one) to account for inherent differences between regions.
 
@@ -217,8 +185,6 @@ Load the data in R and now answer the following questions:
 
 ### Question 23
 
-0.0/1.0 point (graded)
-
 Explore the data and input the following variables:
 
 Number of observations:
@@ -230,8 +196,6 @@ Mean of birthyear:
 Maximum value of teasown:
 
 ### Question 24
-
-0.0/1.0 point (graded)
 
 Create a variable post=1 if birthyear >= 1979 Similarly, create the interaction between teasown and this variable.
 
