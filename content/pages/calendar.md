@@ -7,10 +7,8 @@ uid: 898ca77a-a4a9-4c0d-bb90-8c1a52e382a8
 ---
 ## {{% resource_link "a2ec6aa6-dfae-46cc-885d-7c778ee9a8fe" "Week One: Introduction" %}}
 
-- Introduction to the software R with exercises. Suggested resources for     
-    learning more on the web.
-- Introduction to the power of data and data analysis, overview of what     
-    will be covered in the course.
+- Introduction to the software R with exercises. Suggested resources for learning more on the web.
+- Introduction to the power of data and data analysis, overview of what will be covered in the course.
 
 ## {{% resource_link "c9de3a8f-2598-4d39-bb10-2fd99fbf5a07" "Week Two: Fundamentals of Probability, Random Variables, Joint Distributions, and Collecting Data" %}}
 
@@ -58,10 +56,10 @@ uid: 898ca77a-a4a9-4c0d-bb90-8c1a52e382a8
 
 ## {{% resource_link "27deb6c6-3c01-44bc-8859-2cffecf24ec8" "Week Ten: Endogeneity, Instrumental Variables, and Experimental Design" %}}
 
-- Understanding the problem of endogeneity. Introduction to instrumental variables and two-stage least squares, with a discussion of how to assess the validity of an instrument
+- Understanding the problem of endogeneity; introduction to instrumental variables and two-stage least squares, with a discussion of how to assess the validity of an instrument
 - Discussion of how to design the effective experiment, followed by an example from Indonesia
 - Principles of data visualization with examples of well-crafted visual presentations of data
 
 ## Week Eleven: Intro to Machine Learning and Data Visualizations
 
-- Introduction to the use of machine learning for prediction. Covers tuning and training. \[Note: These lectures were given by a guest lecturer and not available to OCW users.\]
+- Introduction to the use of machine learning for prediction. Covers tuning and training. \[Note: These lectures were given by a guest lecturer and are not available to OCW users.\]
