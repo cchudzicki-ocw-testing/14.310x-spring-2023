@@ -25,7 +25,7 @@ For most weeks during the course, there will be a homework assignment that cover
 
 ## Reading Assignments
 
-There are no required texts for the course. We will draw on material from many sources. For the first half of the course, a book in probability and statistics could be useful for reference. Possible titles include [*Introduction to Mathematical Statistics and Its Applications*](https://www.worldcat.org/title/502674159) 
+There are no required texts for the course. We will draw on material from many sources. For the first half of the course, a book in probability and statistics could be useful for reference. Possible titles include [*Introduction to Mathematical Statistics and Its Applications*](https://www.worldcat.org/title/502674159) *os*
 
 by Larsen and Marx, [*Probability and Statistics*](https://www.worldcat.org/title/1020304276) by DeGroot and Schervish, or [*Statistical Theory*](https://www.worldcat.org/title/1004350727) by Lindgren. The first is probably the easiest and most discursive. The second is an excellent but somewhat more difficult book. The third is a great book for reference but doesn’t offer much intuition.
 
